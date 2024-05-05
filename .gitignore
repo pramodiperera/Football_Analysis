@@ -1,0 +1,8 @@
+*__pycache__*
+venv
+input_videos
+output_videos
+runs
+training_process/football-players-detection-1
+models
+yolov8x.pt
